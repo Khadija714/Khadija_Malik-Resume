@@ -56,6 +56,7 @@ Testing Life Cycle (STLC), Bug Life Cycle
 
 • Version Control & Collaboration: Git, GitHub 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 ### CERTIFICATIONS & CONFERNCE
 
 Introduction to AI 
@@ -67,6 +68,8 @@ Coursera	2026
 AI & Data Science International Conference (FICC 2025)
 Participant
 UMW	2025
+
+------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ### VOLUNTEER EXPERIENCE	
 Volunteer | Blood Donation Society, UMW	
