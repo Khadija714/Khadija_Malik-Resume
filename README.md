@@ -39,6 +39,7 @@ Classification (phishing/legitimate)
 # Tech Stack: 
 Python, FastAPI, Scikit-learn (Random Forest), NLTK, SHAP, MYSQL, HTML/CSS, JavaScript (Fetch API), XAMPP, Uvicorn
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### TECHNICAL SKILLS 
  	
