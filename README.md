@@ -10,14 +10,17 @@ https://github.com/Khadija714
 
 https://www.linkedin.com/in/khadija11
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### PROFESSIONAL SUMMARY
 Detail-oriented IT Graduate seeking the General IT Support role at Knox. Proficient in network protocols, hardware configuration, and general IT troubleshooting. Combines academic knowledge of security systems (CCTV) with strong analytical skills to support basic accounting and data management. Ready to ensure seamless day-to-day workplace operations.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### EDUCATION
 Bachelor of Science in Information Technology (BSIT) | University of Mianwali | 3.41 CGPA	2022 – 2026
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### PROJECTS
 
