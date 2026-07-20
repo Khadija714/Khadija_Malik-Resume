@@ -1,15 +1,14 @@
 
 #### KHADIJA MALIK
+Lahore Pakistan
 
-── Lahore Pakistan
++92 3462350604	 
 
-── +92 3462350604	 
+khadijamalikm07@email.com    
 
-── khadijamalikm07@email.com    
+https://github.com/Khadija714    
 
-── https://github.com/Khadija714    
-
-── linkedin.com/in/khadija11
+linkedin.com/in/khadija11
 
 
 ### PROFESSIONAL SUMMARY
@@ -58,13 +57,13 @@ Testing Life Cycle (STLC), Bug Life Cycle
 
 ### CERTIFICATIONS & CONFERNCE
 
-# Introduction to AI 
+Introduction to AI 
 Coursera	2026
 
-# Maximize Productivity With AI Tools
+Maximize Productivity With AI Tools
 Coursera	2026
 
-# AI & Data Science International Conference (FICC 2025)
+AI & Data Science International Conference (FICC 2025)
 Participant
 UMW	2025
 
