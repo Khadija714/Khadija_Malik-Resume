@@ -60,6 +60,7 @@ Testing Life Cycle (STLC), Bug Life Cycle
 • Version Control & Collaboration: Git, GitHub 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### CERTIFICATIONS & CONFERNCE
 
 Introduction to AI 
@@ -83,6 +84,8 @@ Volunteer | Blood Donation Society, UMW
 
 3. Event And Campaign Management 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### CORE COMPETENCIES
 1. Problem Solving 
   
@@ -91,6 +94,8 @@ Volunteer | Blood Donation Society, UMW
 3. Communication
   
 4. Team Collaboration
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ACTIVITIES AND INTEREST
  	
