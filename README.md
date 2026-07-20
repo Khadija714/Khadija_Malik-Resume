@@ -8,7 +8,7 @@ khadijamalikm07@email.com
 
 https://github.com/Khadija714    
 
-linkedin.com/in/khadija11
+https://www.linkedin.com/in/khadija11
 
 
 ### PROFESSIONAL SUMMARY
