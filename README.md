@@ -13,12 +13,15 @@ https://www.linkedin.com/in/khadija11
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### PROFESSIONAL SUMMARY
-Detail-oriented IT Graduate seeking the General IT Support role at Knox. Proficient in network protocols, hardware configuration, and general IT troubleshooting. Combines academic knowledge of security systems (CCTV) with strong analytical skills to support basic accounting and data management. Ready to ensure seamless day-to-day workplace operations.
+Passionate Fresh IT Graduate with a strong foundation in AI. Proven hands-on experience in building intelligent applications and 
+training and integrating ML Models. featuring key project like an AI-Based Email Phishing Detection System. Skilled in prompt 
+engineering, data processing, and connecting AI engines with user interfaces. Eager to solve real-world problems by leveraging 
+cutting-edge AI technologies and smart automation tools. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### EDUCATION
-Bachelor of Science in Information Technology (BSIT) | University of Mianwali | 3.41 CGPA	2022 – 2026
+Bachelor of Science in Information Technology (BSIT) | University of Mianwali | 2022 – 2026
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,6 +54,8 @@ Python, FastAPI, Scikit-learn (Random Forest), NLTK, SHAP, MYSQL, HTML/CSS, Java
 • Frameworks & Libraries: OpenAI API, Scikit-learn, Lang Chain, Llama Index, TensorFlow 
 
 • Backend & API Development: Python, FastAPI, REST APIs 
+
+•	Frontend Technologies: HTML, CSS, JavaScript, react.js, Tailwindcss
 
 • Tools & Practices: Jupiter Notebooks, VS Code 
 
