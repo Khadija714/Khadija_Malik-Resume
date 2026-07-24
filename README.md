@@ -1,6 +1,6 @@
 
 #### KHADIJA MALIK
-Lahore Pakistan
+Islamabad Pakistan
 
 +92 3462350604	 
 
